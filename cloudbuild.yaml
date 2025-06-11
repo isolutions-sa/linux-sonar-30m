@@ -22,5 +22,5 @@ steps:
           -Dsonar.projectName=linux-sonar-30m-cloudbuild \
           -Dsonar.sources=. \
           -Dsonar.host.url=https://sonar-demo-pt.iexperts.cloud \
-          -Dsonar.login=sqp_bcc1cc9b0e7043bce4e8f0cdf4617ec9e7015b71 \
+          -Dsonar.login=sqp_ff004af605913a69fb0b9eb124efa6e517288430 \
           -Dsonar.working.directory=/tmp/.scannerwork
